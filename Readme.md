@@ -1,10 +1,5 @@
 
-
-```python
-import numpy as np
-from scipy import stats
-```
-
+# Basic Statistics
 # Mean Median Mode
 
 ![Mean_median_mode](Statistics/Meanmedianmode.PNG)
@@ -12,6 +7,8 @@ from scipy import stats
 
 
 ```python
+import numpy as np
+from scipy import stats
 data = np.array([4,5,1,2,7,2,6,9,3])
 data
 ```
