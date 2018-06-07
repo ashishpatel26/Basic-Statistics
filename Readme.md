@@ -107,7 +107,7 @@ q75, q25 = np.percentile(game_points, [75 ,25]); print ("Inter quartile range:",
 
 # Hypothesis testing
 
-![hypothesis] (Statistics/Hypothesis testing.PNG)
+![hypothesis](Statistics/Hypothesis testing.PNG)
 
 
 ```python
@@ -376,7 +376,15 @@ train_data.shape,test_data.shape
 
     ((22, 12), (10, 12))
 
+# Confusion Matrix
 
+![](Statistics/Confusion Matrix.PNG)
+
+# Type-I-II Error
+![](Statistics/Type-I-II.PNG)
+
+# Evaluation Metrices
+![](Statistics/Evalusion_metrices.PNG)
 
 # Linear and Gradient Boosting  
 
