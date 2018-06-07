@@ -106,7 +106,8 @@ q75, q25 = np.percentile(game_points, [75 ,25]); print ("Inter quartile range:",
     
 
 # Hypothesis testing
-![hypothesis](Statistics/Hypothesis testing.PNG)
+
+![hypothesis] (Statistics/Hypothesis testing.PNG)
 
 
 ```python
