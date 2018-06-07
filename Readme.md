@@ -44,7 +44,7 @@ mean_median_mode(data)
 
 # Variance, Standard Deviation,Range
 
-![Mean_median_mode](Statistics/Varinace_stdev.PNG)
+![Mean_median_mode](Statistics/varinace_stdev.PNG)
 
 
 ```python
@@ -320,7 +320,7 @@ Chi_square_test(survey.Smoke, survey.Clap)
     
 
 # Anova Model
-![Anova](Statistics/ANOVA.PNG)
+![Anova](Statistics/Anova.PNG)
 
 
 ```python
